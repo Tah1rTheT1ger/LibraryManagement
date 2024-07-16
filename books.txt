@@ -1,0 +1,6 @@
+Maths 5
+Physics 4
+Chem 0
+OperSys 4
+DAA 5
+CLRS 0
